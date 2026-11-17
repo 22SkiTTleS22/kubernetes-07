@@ -10,6 +10,8 @@ Task 2
 
 К сожалению, скришоты не прикладываются, ошибка something went really wrong and we can't process that file
 Поэтому вывод текстом по проверкам ниже:
+
+
 NAME               IMAGE
 web-first-nginx    nginx:1.28.0
 web-first-redis    redis:7.4.2
